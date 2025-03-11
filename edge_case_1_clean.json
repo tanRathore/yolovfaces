@@ -1,0 +1,753 @@
+[
+    {
+        "S.No":1,
+        "desc_text":"Nachos",
+        "parsing_result":[
+            "nacho"
+        ]
+    },
+    {
+        "S.No":2,
+        "desc_text":"Beef Soup",
+        "parsing_result":[
+            "beef soup"
+        ]
+    },
+    {
+        "S.No":3,
+        "desc_text":"Coffee Creamer Milk Sugar",
+        "parsing_result":[
+            "coffee",
+            "creamer",
+            "milk",
+            "sugar"
+        ]
+    },
+    {
+        "S.No":4,
+        "desc_text":"Ice Cream Bar",
+        "parsing_result":[
+            "ice cream bar"
+        ]
+    },
+    {
+        "S.No":5,
+        "desc_text":"Coffee With Sugar",
+        "parsing_result":[
+            "coffee",
+            "sugar"
+        ]
+    },
+    {
+        "S.No":6,
+        "desc_text":"Cantaloupe",
+        "parsing_result":[
+            "cantaloupe"
+        ]
+    },
+    {
+        "S.No":7,
+        "desc_text":"Lamb",
+        "parsing_result":[
+            "lamb"
+        ]
+    },
+    {
+        "S.No":8,
+        "desc_text":"Red Wine",
+        "parsing_result":[
+            "red wine"
+        ]
+    },
+    {
+        "S.No":9,
+        "desc_text":"Fruits",
+        "parsing_result":[
+            "fruit"
+        ]
+    },
+    {
+        "S.No":10,
+        "desc_text":"Tomatoes Cheese Basil Olive Oil",
+        "parsing_result":[
+            "olive oil",
+            "tomato",
+            "cheese",
+            "basil"
+        ]
+    },
+    {
+        "S.No":11,
+        "desc_text":"Lean Cuisine Pizza",
+        "parsing_result":[
+            "pizza"
+        ]
+    },
+    {
+        "S.No":12,
+        "desc_text":"Coffee Milk",
+        "parsing_result":[
+            "coffee",
+            "milk"
+        ]
+    },
+    {
+        "S.No":13,
+        "desc_text":"Watermellon",
+        "parsing_result":[
+            "watermelon"
+        ]
+    },
+    {
+        "S.No":14,
+        "desc_text":"Prolon Lunch Day3",
+        "parsing_result":[
+            "lunch"
+        ]
+    },
+    {
+        "S.No":15,
+        "desc_text":"Chicken Veg Avocado",
+        "parsing_result":[
+            "chicken",
+            "vegetable",
+            "avocado"
+        ]
+    },
+    {
+        "S.No":16,
+        "desc_text":"Vega One With Cocoa",
+        "parsing_result":[
+            "vega",
+            "cocoa"
+        ]
+    },
+    {
+        "S.No":17,
+        "desc_text":"Pizza",
+        "parsing_result":[
+            "pizza"
+        ]
+    },
+    {
+        "S.No":18,
+        "desc_text":"Dinner",
+        "parsing_result":[
+            "dinner"
+        ]
+    },
+    {
+        "S.No":19,
+        "desc_text":"Mashed Pot Corn Peas And Gravy",
+        "parsing_result":[
+            "corn",
+            "pea",
+            "gravy"
+        ]
+    },
+    {
+        "S.No":20,
+        "desc_text":"Chocolate",
+        "parsing_result":[
+            "chocolate"
+        ]
+    },
+    {
+        "S.No":21,
+        "desc_text":"Brie",
+        "parsing_result":[
+            "brie"
+        ]
+    },
+    {
+        "S.No":22,
+        "desc_text":"Protein Shake",
+        "parsing_result":[
+            "protein shake"
+        ]
+    },
+    {
+        "S.No":23,
+        "desc_text":"Vanilla Latte",
+        "parsing_result":[
+            "latte"
+        ]
+    },
+    {
+        "S.No":24,
+        "desc_text":"Smoothie",
+        "parsing_result":[
+            "smoothie"
+        ]
+    },
+    {
+        "S.No":25,
+        "desc_text":"Barley Vegetable Salad",
+        "parsing_result":[
+            "vegetable salad",
+            "barley"
+        ]
+    },
+    {
+        "S.No":26,
+        "desc_text":"Grapefruit Juice",
+        "parsing_result":[
+            "grapefruit juice"
+        ]
+    },
+    {
+        "S.No":27,
+        "desc_text":"Soya Yoghurt Nuts Berries Frui",
+        "parsing_result":[
+            "soy yogurt",
+            "nut",
+            "berry",
+            "fruit"
+        ]
+    },
+    {
+        "S.No":28,
+        "desc_text":"Bacon Sandwich",
+        "parsing_result":[
+            "bacon",
+            "sandwich"
+        ]
+    },
+    {
+        "S.No":29,
+        "desc_text":"Wedding Soup",
+        "parsing_result":[
+            "soup"
+        ]
+    },
+    {
+        "S.No":30,
+        "desc_text":"Bread Potatoes",
+        "parsing_result":[
+            "bread",
+            "potato"
+        ]
+    },
+    {
+        "S.No":31,
+        "desc_text":"Chocolate Cake",
+        "parsing_result":[
+            "chocolate cake"
+        ]
+    },
+    {
+        "S.No":32,
+        "desc_text":"Steel Cut Oats With Fruit",
+        "parsing_result":[
+            "oat",
+            "fruit"
+        ]
+    },
+    {
+        "S.No":33,
+        "desc_text":"Breakfast",
+        "parsing_result":[
+            "breakfast"
+        ]
+    },
+    {
+        "S.No":34,
+        "desc_text":"Panna Cotta",
+        "parsing_result":[
+            "panna cotta"
+        ]
+    },
+    {
+        "S.No":35,
+        "desc_text":"Chicken Cobb Salad",
+        "parsing_result":[
+            "cobb salad",
+            "chicken"
+        ]
+    },
+    {
+        "S.No":36,
+        "desc_text":"Zevia",
+        "parsing_result":[
+            "zevia"
+        ]
+    },
+    {
+        "S.No":37,
+        "desc_text":"Juice",
+        "parsing_result":[
+            "juice"
+        ]
+    },
+    {
+        "S.No":38,
+        "desc_text":"425Ml Coconut Water",
+        "parsing_result":[
+            "coconut water"
+        ]
+    },
+    {
+        "S.No":39,
+        "desc_text":"Lemon And Ginger Tea",
+        "parsing_result":[
+            "ginger tea",
+            "lemon"
+        ]
+    },
+    {
+        "S.No":40,
+        "desc_text":"Cereals Almonmilk",
+        "parsing_result":[
+            "almond milk",
+            "cereal"
+        ]
+    },
+    {
+        "S.No":41,
+        "desc_text":"Birthday Cupcake",
+        "parsing_result":[
+            "cupcake"
+        ]
+    },
+    {
+        "S.No":42,
+        "desc_text":"Kale Berries Nuts Seafood Past",
+        "parsing_result":[
+            "kale",
+            "berry",
+            "nut",
+            "seafood"
+        ]
+    },
+    {
+        "S.No":43,
+        "desc_text":"1 Avocado",
+        "parsing_result":[
+            "avocado"
+        ]
+    },
+    {
+        "S.No":44,
+        "desc_text":"Wafers",
+        "parsing_result":[
+            "wafer"
+        ]
+    },
+    {
+        "S.No":45,
+        "desc_text":"Bagel With Cream Cheese",
+        "parsing_result":[
+            "cream cheese",
+            "bagel"
+        ]
+    },
+    {
+        "S.No":46,
+        "desc_text":"Ramen Without Noodles",
+        "parsing_result":[
+            "ramen",
+            "noodle"
+        ]
+    },
+    {
+        "S.No":47,
+        "desc_text":"Mint Oreo Ice Cream",
+        "parsing_result":[
+            "ice cream",
+            "mint",
+            "oreo"
+        ]
+    },
+    {
+        "S.No":48,
+        "desc_text":"Tofu Salad",
+        "parsing_result":[
+            "tofu",
+            "salad"
+        ]
+    },
+    {
+        "S.No":49,
+        "desc_text":"Candy Corn Mix",
+        "parsing_result":[
+            "candy",
+            "corn"
+        ]
+    },
+    {
+        "S.No":50,
+        "desc_text":"Energy Drink",
+        "parsing_result":[
+            "energy drink"
+        ]
+    },
+    {
+        "S.No":51,
+        "desc_text":"Soup",
+        "parsing_result":[
+            "soup"
+        ]
+    },
+    {
+        "S.No":52,
+        "desc_text":"Tea With Milk And Sugar 12 Ozs",
+        "parsing_result":[
+            "tea",
+            "milk",
+            "sugar"
+        ]
+    },
+    {
+        "S.No":53,
+        "desc_text":"Lemon And Hot Water",
+        "parsing_result":[
+            "lemon"
+        ]
+    },
+    {
+        "S.No":54,
+        "desc_text":"Club Soda",
+        "parsing_result":[
+            "club soda"
+        ]
+    },
+    {
+        "S.No":55,
+        "desc_text":"Oreos",
+        "parsing_result":[
+            "oreo"
+        ]
+    },
+    {
+        "S.No":56,
+        "desc_text":"Onion Rings",
+        "parsing_result":[
+            "onion ring"
+        ]
+    },
+    {
+        "S.No":57,
+        "desc_text":"Coffee",
+        "parsing_result":[
+            "coffee"
+        ]
+    },
+    {
+        "S.No":58,
+        "desc_text":"Smoothie",
+        "parsing_result":[
+            "smoothie"
+        ]
+    },
+    {
+        "S.No":59,
+        "desc_text":"Yogurt",
+        "parsing_result":[
+            "yogurt"
+        ]
+    },
+    {
+        "S.No":60,
+        "desc_text":"Coffee",
+        "parsing_result":[
+            "coffee"
+        ]
+    },
+    {
+        "S.No":61,
+        "desc_text":"Bun Bo Hue",
+        "parsing_result":[
+            "bun"
+        ]
+    },
+    {
+        "S.No":62,
+        "desc_text":"Banana",
+        "parsing_result":[
+            "banana"
+        ]
+    },
+    {
+        "S.No":63,
+        "desc_text":"Apple",
+        "parsing_result":[
+            "apple"
+        ]
+    },
+    {
+        "S.No":64,
+        "desc_text":"Egg Avocado Meat Tomato",
+        "parsing_result":[
+            "egg",
+            "avocado",
+            "meat",
+            "tomato"
+        ]
+    },
+    {
+        "S.No":65,
+        "desc_text":"Keylime Pie",
+        "parsing_result":[
+            "key lime pie"
+        ]
+    },
+    {
+        "S.No":66,
+        "desc_text":"Chaga Elixir",
+        "parsing_result":[
+            "chaga"
+        ]
+    },
+    {
+        "S.No":67,
+        "desc_text":"Dinner",
+        "parsing_result":[
+            "dinner"
+        ]
+    },
+    {
+        "S.No":68,
+        "desc_text":"Coconut Sugar Keto Creamer",
+        "parsing_result":[
+            "coconut sugar",
+            "creamer"
+        ]
+    },
+    {
+        "S.No":69,
+        "desc_text":"Kiwi",
+        "parsing_result":[
+            "kiwifruit"
+        ]
+    },
+    {
+        "S.No":70,
+        "desc_text":"Coffee",
+        "parsing_result":[
+            "coffee"
+        ]
+    },
+    {
+        "S.No":71,
+        "desc_text":"12 Whole Cashews",
+        "parsing_result":[
+            "cashew"
+        ]
+    },
+    {
+        "S.No":72,
+        "desc_text":"Salad And Strawberries",
+        "parsing_result":[
+            "salad",
+            "strawberry"
+        ]
+    },
+    {
+        "S.No":73,
+        "desc_text":"Milk",
+        "parsing_result":[
+            "milk"
+        ]
+    },
+    {
+        "S.No":74,
+        "desc_text":"Dark Chocolate",
+        "parsing_result":[
+            "dark chocolate"
+        ]
+    },
+    {
+        "S.No":75,
+        "desc_text":"Greek Omelet",
+        "parsing_result":[
+            "omelette"
+        ]
+    },
+    {
+        "S.No":76,
+        "desc_text":"Lunch",
+        "parsing_result":[
+            "lunch"
+        ]
+    },
+    {
+        "S.No":77,
+        "desc_text":"Berry Smoothie With Nut Milk",
+        "parsing_result":[
+            "berry smoothie",
+            "nut",
+            "milk"
+        ]
+    },
+    {
+        "S.No":78,
+        "desc_text":"Stew",
+        "parsing_result":[
+            "stew"
+        ]
+    },
+    {
+        "S.No":79,
+        "desc_text":"Red Wine With Grape Juice",
+        "parsing_result":[
+            "red wine",
+            "grape juice"
+        ]
+    },
+    {
+        "S.No":80,
+        "desc_text":"Tangerine",
+        "parsing_result":[
+            "tangerine"
+        ]
+    },
+    {
+        "S.No":81,
+        "desc_text":"Tamales",
+        "parsing_result":[
+            "tamale"
+        ]
+    },
+    {
+        "S.No":82,
+        "desc_text":"Olives",
+        "parsing_result":[
+            "olive"
+        ]
+    },
+    {
+        "S.No":83,
+        "desc_text":"Pad Thai",
+        "parsing_result":[
+            "pad thai"
+        ]
+    },
+    {
+        "S.No":84,
+        "desc_text":"Chocolate",
+        "parsing_result":[
+            "chocolate"
+        ]
+    },
+    {
+        "S.No":85,
+        "desc_text":"Red Wine",
+        "parsing_result":[
+            "red wine"
+        ]
+    },
+    {
+        "S.No":86,
+        "desc_text":"Bean Potato Rice Burrito",
+        "parsing_result":[
+            "bean",
+            "potato",
+            "rice",
+            "burrito"
+        ]
+    },
+    {
+        "S.No":87,
+        "desc_text":"Cookies",
+        "parsing_result":[
+            "cookie"
+        ]
+    },
+    {
+        "S.No":88,
+        "desc_text":"Protein Shake",
+        "parsing_result":[
+            "protein shake"
+        ]
+    },
+    {
+        "S.No":89,
+        "desc_text":"Muffin",
+        "parsing_result":[
+            "muffin"
+        ]
+    },
+    {
+        "S.No":90,
+        "desc_text":"Big Glass Red Wine",
+        "parsing_result":[
+            "red wine"
+        ]
+    },
+    {
+        "S.No":91,
+        "desc_text":"Apple Carrots Pecans Hummus",
+        "parsing_result":[
+            "apple",
+            "carrot",
+            "pecan",
+            "hummus"
+        ]
+    },
+    {
+        "S.No":92,
+        "desc_text":"Pastry Pudding Pretzel",
+        "parsing_result":[
+            "pastry",
+            "pudding",
+            "pretzel"
+        ]
+    },
+    {
+        "S.No":93,
+        "desc_text":"Oat Milk",
+        "parsing_result":[
+            "oat milk"
+        ]
+    },
+    {
+        "S.No":94,
+        "desc_text":"Tea",
+        "parsing_result":[
+            "tea"
+        ]
+    },
+    {
+        "S.No":95,
+        "desc_text":"Herbal Tea",
+        "parsing_result":[
+            "herbal tea"
+        ]
+    },
+    {
+        "S.No":96,
+        "desc_text":"Soup",
+        "parsing_result":[
+            "soup"
+        ]
+    },
+    {
+        "S.No":97,
+        "desc_text":"Earl Grey With Soya Milk",
+        "parsing_result":[
+            "earl grey",
+            "soy milk"
+        ]
+    },
+    {
+        "S.No":98,
+        "desc_text":"Carrot Soup",
+        "parsing_result":[
+            "carrot soup"
+        ]
+    },
+    {
+        "S.No":99,
+        "desc_text":"Kombucha",
+        "parsing_result":[
+            "kombucha"
+        ]
+    },
+    {
+        "S.No":100,
+        "desc_text":"Praline",
+        "parsing_result":[
+            "praline"
+        ]
+    }
+]

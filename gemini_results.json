@@ -1,0 +1,77 @@
+{
+    "image_0.png": {
+        "food_count": "Multiple",
+        "has_label": "Unlabeled",
+        "list_of_food_items": [
+            "Chips with cheese",
+            "Salsa",
+            "Guacamole"
+        ]
+    },
+    "image_1.png": {
+        "food_count": "Multiple",
+        "has_label": "Unlabeled",
+        "list_of_food_items": [
+            "Beef noodle soup",
+            "Fried food",
+            "Iced tea"
+        ]
+    },
+    "image_2.png": {
+        "food_count": "Single",
+        "has_label": "Unlabeled",
+        "list_of_food_items": [
+            "Coffee"
+        ]
+    },
+    "image_3.png": {
+        "food_count": "Single",
+        "has_label": "Unlabeled",
+        "list_of_food_items": [
+            "Cheese puff"
+        ]
+    },
+    "image_4.png": {
+        "food_count": "Single",
+        "has_label": "Labeled",
+        "list_of_food_items": [
+            "Starbucks coffee/drink"
+        ]
+    },
+    "image_5.png": {
+        "food_count": "Single",
+        "has_label": "Unlabeled",
+        "list_of_food_items": [
+            "Cantaloupe slices"
+        ]
+    },
+    "image_6.png": {
+        "food_count": "Single",
+        "has_label": "Unlabeled",
+        "list_of_food_items": [
+            "Bread"
+        ]
+    },
+    "image_7.png": {
+        "food_count": "Multiple",
+        "has_label": "Labeled",
+        "list_of_food_items": [
+            "Red wine",
+            "Canned pineapple"
+        ]
+    },
+    "image_8.png": {
+        "food_count": "Single",
+        "has_label": "Unlabeled",
+        "list_of_food_items": [
+            "Fruit salad (green grapes, blackberries)"
+        ]
+    },
+    "image_9.png": {
+        "food_count": "Single",
+        "has_label": "Unlabeled",
+        "list_of_food_items": [
+            "Tea or coffee with milk"
+        ]
+    }
+}
